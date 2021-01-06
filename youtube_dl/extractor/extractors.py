@@ -75,6 +75,7 @@ from .atvat import ATVAtIE
 from .audimedia import AudiMediaIE
 from .audioboom import AudioBoomIE
 from .audiomack import AudiomackIE, AudiomackAlbumIE
+from .avninga import AvningaIE
 from .awaan import (
     AWAANIE,
     AWAANVideoIE,
@@ -495,6 +496,7 @@ from .ivideon import IvideonIE
 from .iwara import IwaraIE
 from .izlesene import IzleseneIE
 from .jable import JableIE
+from .javguru import JavguruIE
 from .jamendo import (
     JamendoIE,
     JamendoAlbumIE,
